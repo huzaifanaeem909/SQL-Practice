@@ -17,7 +17,4 @@ This repository contains a collection of SQL queries, exercises, and examples ai
 
 To get started with the exercises in this repository, follow these steps:
 
-1. **Clone the Repository**
 
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
