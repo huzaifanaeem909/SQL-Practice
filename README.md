@@ -13,8 +13,5 @@ This repository contains a collection of SQL queries, exercises, and examples ai
 - **Examples:** Demonstrations of SQL concepts and techniques.
 - **Topics Covered:** SELECT statements, JOINs, GROUP BY, subqueries, and more.
 
-## Getting Started
-
-To get started with the exercises in this repository, follow these steps:
 
 
